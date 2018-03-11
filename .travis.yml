@@ -13,4 +13,4 @@ env:
 #sudo: false
 script:
   - bash summary_create.sh
-- travis_wait 100 bash deploy.sh
+  - travis_wait 100 bash deploy.sh
