@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config user.name "UgFly"
+git config user.name "ugfly1210"
 git config user.email "ugfly@qq.com"
 git checkout -b gitbook
 git status
