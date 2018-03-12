@@ -1,9 +1,10 @@
 {
+{
+    "title": "UgFly",
     "author": "UgFly",
-    "description": "Blog",
+    "description": "blogs",
     "extension": null,
     "generator": "site",
-     "title": "UgFly",
     "links": {
         "sharing": {
             "all": null,
@@ -30,20 +31,31 @@
         "toggle-chapters",
         "theme-comscore",
         "splitter",
+        "github",
         "-sharing",
         "-lunr",
         "-search",
         "search-plus",
-        "anchor-navigation-ex"
+        "anchor-navigation-ex@1.0.10",
+        "editlink"
     ],
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/ugfly1210/UgFly"
+        },
+        "editlink": {
+            "base": "https://github.com/ugfly1210/UgFly/blob/master",
+            "label": "编辑本页"
+        },
         "anchor-navigation-ex": {
             "showLevel": false,
-            "isRewritePageTitle": true,
-            "isShowTocTitleIcon": true,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
+            "mode": "float",
+            "float": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
         }
     }
 }
