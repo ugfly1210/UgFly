@@ -13,4 +13,4 @@
 <a href="#"><img src="http://oux34p43l.bkt.clouddn.com/weixing.png?imageMogr2/auto-orient/thumbnail/x30/blur/1x0/quality/75|imageslim"/></a>
 </span>
 
-## 我最最牛逼的博客。
+## 。
